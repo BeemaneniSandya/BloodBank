@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+header h1 {
+	font-size: 60px;
+	font-weight: bold;
+	color: crimson;
+	text-align: center;
+}
+
+#textContainer {
+	width: 900px;
+	margin: 30px auto;
+	position: relative;
+	padding: 2%;
+	border: 3px solid #f1f1f1;
+	border-radius: 10px;
+}
+
+section p {
+	font-size: 20px;
+	text-align: justify;
+	color: DarkSlateGray;
+	font-weight: bold;
+}
+
+#imageContainer {
+	width: 900px;
+	margin: 5px auto;
+	position: relative;
+	padding: 2%;
+}

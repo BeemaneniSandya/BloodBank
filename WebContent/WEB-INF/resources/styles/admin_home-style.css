@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+header h1 {
+	color: crimson;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+}
+
+#container {
+	width: 1200px;
+	margin: 30px auto;
+	position: relative;
+	padding: 2%;
+}
+
+.field {
+	font-weight: bold;
+	text-align: center;
+}
+
+.value {
+	text-align: center;
+}
+
+#message {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	color: black;
+}
+
+.button {
+	width: 125px;
+	margin: 1 auto;
+}
